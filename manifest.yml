@@ -1,0 +1,6 @@
+applications:
+- name: microservices
+path: target/circuit-breaker
+domain: com.sapient
+memory: 1G
+instances: 1
